@@ -1,4 +1,4 @@
-001                                                                             PAGE 93
+001                                                                                   PAGE 93
 002     001 009 UTBG1:  POP P,D
 003     001 009         HRRZS D
 004     088 025         CAIN D,CHRKT4
@@ -33,7 +33,7 @@
 033     093 028         JRST UTICL2
 034
 035
-036     094 002 UTICL3: PUSHJ P,UCPATO  ;UT CHANNEL PATCH OUT
+036     094 002 UTICL3: PUSHJ P,UCPAT0  ;UT CHANNEL PATCH OUT
 037     083 017         CLEARM UTDIRP(D)
 038     083 015         SETOM UTUSR(D)
 039     001 016         POPJ P,

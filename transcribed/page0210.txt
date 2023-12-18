@@ -1,4 +1,4 @@
-001                                                                             PAGE 21
+001                                                                                   PAGE 21
 002     001 049 ONEFLS: CONO PI,CLKOFF
 003     117 011         MOVE U,USER
 004     118 024         HRRZ T,UPR(U)
@@ -36,7 +36,7 @@
 036     021 011         JRST UUOE1
 037
 038
-039     001 029 IOAUC:  MOVEI T,BIOADC
+039     001 029 IOADC:  MOVEI T,BIOADC
 040     021 033         JRST UUOERR
 041
 042
